@@ -1,0 +1,5 @@
+Install the Advanced Bat to Exe Conveter, right click on 
+.launcher.bat and click Compile with Advanced BAT to EXE Converter,
+drag all of the files into your .minecraft folder, access this by 
+pressing the windows key, and typing in %appdata%, and clicking on
+.minecraft. 
