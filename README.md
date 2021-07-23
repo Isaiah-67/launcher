@@ -1,2 +1,0 @@
-# launcher
-My Minecraft launcher
